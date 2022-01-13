@@ -1,2 +1,2 @@
-# OpengGL
+# OpenGL
 OpenGL test framework
